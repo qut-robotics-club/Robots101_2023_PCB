@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 2.7,
-          "height": 2.7,
-          "width": 2.7
+          "drill": 0.0,
+          "height": 1.4,
+          "width": 1.2
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -344,7 +344,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "RaspberryPi-HAT.kicad_pro",
+    "filename": "RPI.kicad_pro",
     "version": 1
   },
   "net_settings": {
