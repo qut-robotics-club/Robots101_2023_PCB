@@ -1,4 +1,4 @@
-20948988058743052
+20941493765305812
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78441,41 +78441,6 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
-RPi_Hat
-LM1085-5.0
-
-
-0
-3
-3
-RPi_Hat
-Pin_Header_Straight_2x20
-Through hole pin header
-pin header
-0
-40
-40
-RPi_Hat
-RPi_Hat_Mounting_Hole
-Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
-Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
-0
-0
-0
-RPi_Hat
-Samtec_HLE-120-02-XXX-DV-BE-XX-XX
-
-
-0
-40
-40
-RPi_Hat
-Switch_SPDT_Jaycar
-
-
-0
-3
-3
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
