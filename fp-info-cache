@@ -1,4 +1,4 @@
-20954934787255911
+20955711137670350
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78476,6 +78476,13 @@ Mounting hole, Befestigungsbohrung, 2,7mm, No Annular, Kein Restring,
 0
 0
 0
+RPi_Hat
+SOT95P285X140-6N
+
+
+0
+6
+6
 RPi_Hat
 Samtec_HLE-120-02-XXX-DV-BE-XX-XX
 
