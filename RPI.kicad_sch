@@ -5446,8 +5446,21 @@
     (pin "2" (uuid 450f091a-f536-455a-9cd5-9403da42541a))
   )
 
+  (sheet (at 201.93 111.76) (size 31.75 22.86) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid bf1e2c51-a642-47c0-94b6-9f1533755b50)
+    (property "Sheet name" "buck reg" (id 0) (at 201.93 111.0484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "test.kicad_sch" (id 1) (at 201.93 135.2046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/bf1e2c51-a642-47c0-94b6-9f1533755b50" (page "2"))
   )
 
   (symbol_instances
