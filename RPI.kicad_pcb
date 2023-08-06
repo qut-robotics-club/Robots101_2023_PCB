@@ -6744,7 +6744,7 @@
   (gr_text "GPIO9" (at 160.922178 78.652519 90) (layer "F.SilkS") (tstamp 9c4b6680-38e2-41de-9bbc-c42c96de6d39)
     (effects (font (size 0.4 0.4) (thickness 0.08)))
   )
-  (gr_text "Motor Power" (at 70.272988 58.12312) (layer "F.SilkS") (tstamp 9cbe63ea-170c-45e0-81eb-dda0863b8a05)
+  (gr_text "Motor Power" (at 75.692 57.912) (layer "F.SilkS") (tstamp 9cbe63ea-170c-45e0-81eb-dda0863b8a05)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text "GPIO17" (at 104.278692 57.770517 270) (layer "F.SilkS") (tstamp a976d7a8-3f8a-42c9-8380-74464c894f9c)
