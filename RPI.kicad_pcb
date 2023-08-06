@@ -4,9 +4,13 @@
     (thickness 1.6)
   )
 
-  (paper "A3")
+  (paper "A4")
   (title_block
-    (date "15 nov 2012")
+    (title "Robots101 Pi-Hat")
+    (date "06 Aug 2023")
+    (rev "2.12")
+    (company "QUT Robotics Club")
+    (comment 1 "By Phoenix Seybold & Stephen Wardle")
   )
 
   (layers

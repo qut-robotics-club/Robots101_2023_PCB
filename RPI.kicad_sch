@@ -5,7 +5,11 @@
   (paper "A4")
 
   (title_block
-    (date "15 nov 2012")
+    (title "Robots101 Pi-Hat")
+    (date "06 / 08 /2023")
+    (rev "2.12")
+    (company "QUT Robotics Club")
+    (comment 1 "By Phoenix Seybold & Stephen Wardle")
   )
 
   (lib_symbols
@@ -3516,6 +3520,10 @@
     (effects (font (size 0.7 0.7) italic) (justify left bottom))
     (uuid 04b8f9ed-ab89-41e6-a627-711e44759f40)
   )
+  (text "ROBOTS101 PI-HAT " (at 177.8 175.26 0)
+    (effects (font (size 5 5)) (justify left bottom))
+    (uuid 10b311b4-737d-4972-817e-b70131b5fc92)
+  )
   (text "Logic shift \nto 3.3v for pi" (at 187.96 149.86 0)
     (effects (font (size 0.7 0.7)) (justify left bottom))
     (uuid 161744a7-4a7d-45ed-ae7f-9681738de448)
@@ -3540,7 +3548,7 @@
     (effects (font (size 2 2) (thickness 0.4) bold) (justify right bottom))
     (uuid 28ad7007-006b-4bfd-9d0b-6e0159eb576b)
   )
-  (text "Additional pin functions:\nhttps://pinout.xyz/" (at 179.07 180.34 0)
+  (text "Additional pin functions:\nhttps://pinout.xyz/" (at 259.08 180.34 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 36e2c557-2c2a-4fba-9b6f-1167ab8ec281)
   )
