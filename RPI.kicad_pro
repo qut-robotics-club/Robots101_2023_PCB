@@ -396,7 +396,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "RPI-HATv2.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -446,10 +446,6 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
-    ],
-    [
-      "bf1e2c51-a642-47c0-94b6-9f1533755b50",
-      "buck reg"
     ]
   ],
   "text_variables": {}
