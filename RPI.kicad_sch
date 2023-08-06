@@ -3515,6 +3515,11 @@
     (uuid ff9bc303-b93b-4b4e-9de3-6d4b8b7aacac)
   )
 
+  (text "REF:  https://github.com/raspberrypi/hats/blob/master/designguide.md"
+    (at 48.26 196.85 0)
+    (effects (font (size 0.7 0.7) italic) (justify left bottom))
+    (uuid 04b8f9ed-ab89-41e6-a627-711e44759f40)
+  )
   (text "Battery Low Voltage Indicator" (at 13.97 91.44 0)
     (effects (font (size 2 2) (thickness 0.4) bold) (justify left bottom))
     (uuid 17d5d554-7167-4925-8985-dcfbc30dbe98)
