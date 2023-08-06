@@ -34,8 +34,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.45,
-          "width": 1.175
+          "height": 2.7,
+          "width": 1.325
         },
         "silk_line_width": 0.12,
         "silk_text_italic": false,
@@ -394,7 +394,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "specctra_dsn": "",
       "step": "RPI-HATv2.step",
       "vrml": ""
